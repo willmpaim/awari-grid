@@ -1,4 +1,4 @@
-# Trabalahndo com Grid#
+# Awari Grid #
 
 Pratica de Grid CSS, utilização de grid-areas e comprensão das divisões do grid
 
